@@ -1,0 +1,13 @@
+name: caesar-breaker
+version: 0.1.0
+
+authors:
+  - Hugo Abonizio <hugo_abonizio@hotmail.com>
+
+targets:
+  caesar_cipher_broker:
+    main: src/caesar_cipher_breaker.cr
+
+crystal: 0.23.1
+
+license: MIT
