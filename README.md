@@ -5,7 +5,7 @@
 ## Installation
 
 ```
-git clone --depth https://github.com/hugoabonizio/caesar_cipher_breaker.git
+git clone --depth 1 https://github.com/hugoabonizio/caesar_cipher_breaker.git
 cd caesar_cipher_breaker
 make build
 sudo make install
